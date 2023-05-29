@@ -1,0 +1,1 @@
+<view class="goods data-v-5566b618"><goods-list bind:goods="__e" vue-id="576f0adc-1" data-event-opts="{{[['^goods',[['getGoods']]]]}}" class="data-v-5566b618" bind:__l="__l"></goods-list></view>

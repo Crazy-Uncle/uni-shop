@@ -1,0 +1,17 @@
+.contact .img.data-v-476c8d48 {
+  width: 750rpx;
+  height: 320rpx;
+}
+.contact .info.data-v-476c8d48 {
+  padding: 10rpx 20rpx;
+  font-size: 30rpx;
+}
+.contact .info view.data-v-476c8d48 {
+  line-height: 50rpx;
+  border-bottom: 1px solid #eee;
+}
+.contact .map.data-v-476c8d48 {
+  width: 750rpx;
+  height: 750rpx;
+}
+

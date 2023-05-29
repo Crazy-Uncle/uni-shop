@@ -1,0 +1,18 @@
+.news_detail.data-v-69e22b1e {
+  font-size: 30rpx;
+  padding: 0 20rpx;
+}
+.news_detail .title.data-v-69e22b1e {
+  text-align: center;
+  display: block;
+  width: 710rpx;
+  margin: 20rpx 0;
+}
+.news_detail .info.data-v-69e22b1e {
+  display: flex;
+  justify-content: space-between;
+}
+.news_detail .content.data-v-69e22b1e {
+  font-size: 24rpx;
+}
+
